@@ -17,6 +17,7 @@ function App() {
         </a>
       </div>
       <h1>CODIAL Academy</h1>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, inventore.</p>
       
     </>
   )
