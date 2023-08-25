@@ -16,7 +16,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>CODIAL</h1>
+      <h1>CODIAL Academy</h1>
       
     </>
   )
